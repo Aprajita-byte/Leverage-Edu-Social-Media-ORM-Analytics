@@ -1,51 +1,57 @@
-📊 Leverage Edu – Social Media & ORM Analytics (September 2025)
 
-This project analyzes 179+ brand mentions of Leverage Edu across multiple social media and review platforms. Using Google Sheets, Pivot Tables, and basic sentiment tagging, the report highlights engagement patterns, sentiment distribution, and platform-specific insights.
+# Leverage Edu – Social Media & ORM Analytics (September 2025)
 
-🔍 Project Overview
+This project presents an analysis of 179+ brand mentions related to Leverage Edu across major social media, review, and news platforms. The report was created using Google Sheets, pivot tables, and data visualization techniques, and exported as a PDF for sharing and reporting.
 
-Consolidated data from 10+ platforms including LinkedIn, Reddit, Twitter, Glassdoor, AmbitionBox, News portals, and more.
+---
 
-Generated a complete monthly analytics report for September 2025 using pivot tables, filters, and visual charts.
+## Project Overview
 
-Created a publicly accessible Google Drive/Sheets workflow to enable transparent sharing and easy replication.
+* Collected and processed mentions from 10+ platforms including LinkedIn, Reddit, Twitter, Glassdoor, AmbitionBox, News portals, and more.
+* Built pivot-table-driven dashboards to categorize mentions, track buzz trends, and identify sentiment distribution.
+* Designed a publicly shareable Google Sheets workflow enabling transparent access and easy replication of the report.
 
-📈 Key Insights
+---
 
-Processed 179+ mentions with clear segmentation by platform.
+## Key Insights
 
-Sentiment breakdown: 60% Positive, 33% Neutral, 7% Negative.
+* Total mentions analyzed: 179+
+* Sentiment distribution: 60% Positive, 33% Neutral, 7% Negative
+* LinkedIn generated the highest number of mentions (77), followed by news portals and review sites.
+* Reddit and Twitter surfaced the majority of negative feedback, mainly focused on admission processes and response timelines.
 
-LinkedIn accounted for the highest engagement with 77 mentions, followed by news articles and review portals.
+---
 
-Identified negative-feedback clusters on Reddit & Twitter related to admission processes and response timelines.
+## Tools & Techniques
 
-🛠️ Tools & Techniques
+* Google Sheets
+* Pivot Tables
+* Sentiment Categorization
+* Data Visualization
+* PDF Export
 
-Google Sheets (Primary tool)
+---
 
-Pivot Tables
+## Files Included
 
-Sentiment Categorization
+* LeverageEdu_Sep25Report.pdf — Final monthly analysis
+* Dataset and dashboards (Google Sheets link)
+  *(Add your public link here)*
 
-Charts & Data Visualization
+---
 
-PDF Export for Monthly Report
+## How to Use
 
-📄 Files Included
+1. Open the PDF or the public Google Sheets link.
+2. Explore pivot tables and charts for platform-wise and sentiment insights.
+3. Replace the dataset with new monthly data to generate updated reports.
 
-LeverageEdu_Sep25Report.pdf — Final analytics report
+---
 
-Raw data / pivot dashboards (Google Sheets link) (Add your public link here)
+## Contact
 
-🚀 How to Use
+For suggestions, improvements, or collaborations, feel free to reach out or open an issue.
 
-Download the PDF or open the public Google Sheets link.
+---
 
-Explore pivot tables to view platform-wise and date-wise metrics.
-
-Modify the dataset to generate your own monthly reports.
-
-📬 Contact
-
-For collaborations or improvements, feel free to raise an issue or connect.
+If you want, I can also format it in **ultra-short**, **GitHub-portfolio style**, or **with badges**.
